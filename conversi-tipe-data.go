@@ -19,6 +19,7 @@ var (
 	a         byte   = filem[2]         // Mengambil karakter ketiga ('n') dalam bentuk byte
 	eStringg  string = string(a)        // Konversi byte menjadi string
 	
+	
 )
 
 func main() {
